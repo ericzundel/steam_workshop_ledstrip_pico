@@ -12,5 +12,7 @@ pixel_pin = board.GP2
 num_pixels = 10
 
 pixels = neopixel.NeoPixel(pixel_pin, num_pixels, brightness=0.3, auto_write=False)
-pixels[0] = (128, 128, 128)
-pixels.show()
+
+while True:
+    pixels[0] = (128, 128, 128)
+    pixels.show()
