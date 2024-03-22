@@ -40,10 +40,10 @@ BLACK  = (  0,   0,   0) # 0% of all colors (turns the LED off)
 #MAGENTA = (?, ?, ?)
 
 # ** Make your own colors and see what happens!
-#MYCOLOR1 RGB(?, ?, ?)
-#MYCOLOR2 RGB(?, ?, ?)
-#MYCOLOR3 RGB(?, ?, ?)
-#MYCOLOR4 RGB(?, ?, ?)
+#MYCOLOR1 = (?, ?, ?)
+#MYCOLOR2 = (?, ?, ?)
+#MYCOLOR3 = (?, ?, ?)
+#MYCOLOR4 = (?, ?, ?)
 
 # *****************************************************************************
 # ** These are the functions used to make different patterns.
