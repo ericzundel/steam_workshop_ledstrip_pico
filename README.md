@@ -38,3 +38,6 @@ In March 2022 I ran a version of this workshop using the Arduino environment fou
 
 This is ripped off from the (Adafruit website neopixel example)[https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel].  I added a few functions to mimic my workshop from 2022 in C++.
 
+## lib/ directory
+
+The library files in the lib/ directory are for student convenience. They are currently compiled for CircuitPython 9
