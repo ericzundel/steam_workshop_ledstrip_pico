@@ -6,3 +6,4 @@ mkdir $DEST/lib >/dev/null 2>&1
 cp lib/* $DEST/lib/
 mkdir $DEST/Save >/dev/null 2>&1
 cp Save/* $DEST/Save/ 
+cp $DEST/code-steamworkshop-example.py $DEST/code.py
